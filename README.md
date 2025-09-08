@@ -3,6 +3,8 @@ AI-ассистент карьерного консультанта в Telegram 
 
 [Хранилище с информацией проекта 🗄️](https://disk.yandex.ru/d/Z4H2rI9SAtaqvA)
 
+[Атлас профессий](https://atlas100.ru/catalog/)
+
 <img width="1536" height="1024" alt="ChatGPT Image 6 сент  2025 г , 08_49_18" src="https://github.com/user-attachments/assets/0c997467-18ef-40a1-92db-70a2246dd6d5" />
 
 ## Планирование:
