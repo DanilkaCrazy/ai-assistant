@@ -186,11 +186,13 @@ AI-ассистент карьерного консультанта в Telegram 
 
 За основной путь перехода пользователя с сайта до AI-ассистента в Телеграмм была создана Яндекс форма, которая отлично добавляется через API.
 Форма: https://forms.yandex.ru/u/68bf33bfd04688be0ebd6347
+
 Визуальный вид формы:
 <img width="691" height="876" alt="Screenshot_5" src="https://github.com/user-attachments/assets/c6bcf350-11e3-420f-958d-cd2e8cab977c" />
 
 Визуальное сообщение после отправления данных в форму:
-![Uploading Screenshot_6.png…]()
+<img width="691" height="232" alt="Screenshot_6" src="https://github.com/user-attachments/assets/e902c24d-3bcd-43ff-9b85-afb2df4ba2df" />
+
 
 
 ## Описание методик
