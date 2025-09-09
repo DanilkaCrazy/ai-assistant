@@ -189,7 +189,8 @@ AI-ассистент карьерного консультанта в Telegram 
 
 Визуальный вид формы:
 
-<img width="691" height="876" alt="Screenshot_5" src="https://github.com/user-attachments/assets/c6bcf350-11e3-420f-958d-cd2e8cab977c" />
+<img width="590" height="870" alt="Screenshot_8" src="https://github.com/user-attachments/assets/354bdd35-d996-43d0-9636-6dc6d9b65c8c" />
+
 
 Визуальное сообщение после отправления данных в форму:
 
