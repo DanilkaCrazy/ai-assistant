@@ -57,7 +57,7 @@ AI-ассистент карьерного консультанта в Telegram 
 
 Моделирование функционала ролей строилось на основе диаграммы вариантов использования (диаграмма прецендентов) с использованием языка моделирования UML через draw.io.
 
-<img width="1057" height="543" alt="Screenshot_3" src="https://github.com/user-attachments/assets/5cb00958-8fb5-4a52-89e6-a2c6a11e371d" />
+<img width="1057" height="543" alt="Screenshot_4" src="https://github.com/user-attachments/assets/86925d1f-130e-4781-8e14-f726ae5eda11" />
 
 #### Акторы
 
