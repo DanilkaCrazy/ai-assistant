@@ -131,6 +131,9 @@ AI-ассистент карьерного консультанта в Telegram 
 | user\_id     | UUID / PK      | Уникальный идентификатор   |
 | first\_name  | VARCHAR        | Имя пользователя           |
 | last\_name   | VARCHAR        | Фамилия пользователя       |
+| surname   | VARCHAR        | Отчество пользователя       |
+| gender   | VARCHAR        | Пол пользователя       |
+| status   | VARCHAR        | Статус пользователя (школьник, студент, работяга)       |
 | birth\_date  | DATE           | Дата рождения              |
 | email        | VARCHAR / NULL | Email (если есть)          |
 | telegram\_id | VARCHAR / NULL | ID в Telegram              |
