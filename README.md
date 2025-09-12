@@ -15,17 +15,13 @@ AI-ассистент карьерного консультанта в Telegram 
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Цель](#цель)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Решение](#решение)  
    1.2. [Команда (о нас)](#команда-о-нас)
-   
    1.3. [Конкурентный SWOT-анализ](#конкурентный-swot-анализ)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Ключевые находки из научной литературы](#ключевые-находки-из-научной-литературы-коротко)
-   
    1.4. [Таблица требований:](#таблица-требований)
-   
    1.5. [Моделирование процессов и функций AI-ассистента](#моделирование-процессов-и-функций-ai-ассистента)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Акторы](#акторы)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [UML-диаграмма развертывания](#uml-диаграмма-развертывания-deployment-diagram)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [UML-диаграмма компонентов](#uml-диаграмма-компонентов-component-diagram) 
-       
    1.6. [Проектирование базы данных](#проектирование-базы-данных)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Users (Пользователи)](#1-users-пользователи)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [UserProfiles (Дополнительные данные)](#2-userprofiles-дополнительные-данные-о-пользователе)  
@@ -33,9 +29,7 @@ AI-ассистент карьерного консультанта в Telegram 
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [TestResults (Результаты тестов)](#4-testresults-результаты-тестов)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [CareerSuggestions (Рекомендации по профессиям)](#5-careersuggestions-рекомендации-по-профессиям)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [AnalyticsLogs (Логи аналитики / экспорта)](#6-analyticslogs-логи-аналитики--экспорта)
-    
    1.7. [Работа с формой](#работа-с-формой)
-   
    1.8. [Описание методик](#описание-методик)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Тест MBTI](#1-тест-mbti-myersbriggs-type-indicator)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Якоря карьеры](#2-якоря-карьеры-career-anchors-климова)  
@@ -43,7 +37,6 @@ AI-ассистент карьерного консультанта в Telegram 
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Тест Климова (DDO)](#4-тест-климова-ddo)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Тест Голланда (RIASEC)](#5-тест-голланда-riasec)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Тесты, структурированные по сегментам](#тесты-структурированные-по-сегментам)
-     
    1.9. [Как построить адаптивный диалог](#как-построить-адаптивный-диалог)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Как GPT-ассистент может обрабатывать эти методики](#как-gpt-ассистент-может-обрабатывать-эти-методики)  
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Что лучше и почему](#что-лучше-и-почему)  
